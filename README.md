@@ -3,7 +3,7 @@
 I'm a dedicated Computer Science student aiming to transition into a Software Engineer or Data Analyst role. I am proficient in C++, Java, Python, and have a strong foundation in data analytics.
 
 - 🔭 **Highlighted projects:**
-  - [CS-340-Portfolio-Project](https://github.com/MadelineJMeyers/CS-340-Portfolio-Project)
+  - [CS-340-Portfolio-Project](https://github.com/MadelineJMeyers/CS340-Portfolio-Project)
   - [IT-145-Project](https://github.com/MadelineJMeyers/IT-145-Project)
 - 💻 **Languages/Skills:** C++, Java, Python, Data Analytics
 - 🎮 **Hobbies:** Playing and creating video games, writing
